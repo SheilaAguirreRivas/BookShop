@@ -1,0 +1,24 @@
+{
+    "name": "lectores/tienda-online",
+    "description": "creacion de una tienda online",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sheila aguirre rivas",
+            "email": "sheyba0803@gmail.com"
+        },
+        {
+            "name": "2",
+            "email": "2"
+        }
+    ],
+    "require": {
+        
+    },
+    "autoload": {
+        "psr-4": {
+            "Lectores\\":"src/"
+        }
+    }
+}
